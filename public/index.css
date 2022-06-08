@@ -1,0 +1,208 @@
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&family=Montserrat:wght@100;400;600;900&family=Russo+One&display=swap');
+
+/*font-family: 'Kdam Thmor Pro', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Russo One', sans-serif;*/
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.Kfont{
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
+
+.Mfont{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.Rfont{
+    font-family: 'Russo One', sans-serif;
+}
+
+.bgColor {
+    background-color: #1A1A2E;
+    height: 100vh;
+}
+
+.cardBgColor{
+    background-color: #1A1A2E !important;
+    box-shadow: 0 0 5px #BBE1FA;
+}
+
+.bgmColor{
+    background-color: #202040 !important;
+}
+.oneColor{
+    color: #BBE1FA;
+}
+
+.oneBgColor{
+    background-color: #BBE1FA;
+}
+
+.borderB{
+    border-bottom: #BBE1FA !important;
+}
+
+.twoColor{
+    color: #FA7D09;
+    font-family: 'Russo One', sans-serif;
+}
+
+.mainColor{
+    color: #FA7D09;
+}
+
+.mainBg{
+    background-color: #FA7D09 !important;
+}
+
+.mainFont{
+    font-family: 'Russo One', sans-serif;
+}
+
+.threeColor{
+    color: #EEB76B;
+}
+
+.fourColor{
+    color: #BC6FF1;
+}
+
+.fontT{
+    font-weight: lighter;
+    font-style: italic;
+}
+
+.linkFont{
+    font-weight: bold;
+    font-size: 50px;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+}
+
+.iconS{
+    color:#FA7D09;
+    font-weight: bolder;
+    font-size: 50px;
+}
+
+.fonts{
+    font-size: 150px;
+    font-weight: 1000;
+}
+
+container{
+    position: relative;
+}
+
+.textFooter {
+    position: absolute;
+    bottom:10px;
+    left: 50px;
+
+}
+
+.mtop{
+    margin-top: 100px;
+}
+
+.coverContainer{
+    background-color: white;
+    height: 250px;
+    border-radius: 10px;
+    width:100%;
+}
+
+.bubg{
+    background-color: #FA7D09 !important;
+    width: 200px !important;
+    margin-top: 40px !important;
+    font-weight: bold !important;
+
+}
+
+.file{
+    margin-top: 40px;
+}
+option{
+    padding: 20px;
+}
+
+.pageScroll{
+    height: 700px;
+}
+
+.searchBar input{
+    border-radius: 50px;
+    width: 600px;
+    background-color: #202040;
+    box-shadow: 0 0 10px #BBE1FA;
+    border: none;
+    color:white;
+
+}
+
+
+.searchButton {
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    box-shadow: 0 0 10px #BBE1FA;
+    background-color: #202040;
+}
+.searchButton i {
+    font-size: 25px;
+    font-weight: bolder;
+    color: #BBE1FA;
+}
+
+.cardBgMainColor{
+    background-color: #1A1A2E !important;
+    box-shadow: 0 0 5px #FA7D09;
+    position: relative;
+}
+.starContainer {
+    position: absolute;
+    bottom: 4px;
+    left: 5px;
+}
+.cardBgMainColor small{
+    position: absolute;
+    bottom: 1px;
+}
+
+.starContainer i{
+    color: #ff0000;
+}
+
+.subscribe{
+    background-color: #ff0000 !important;
+    font-weight: 800 !important;
+}
+
+.bookCardContainer{
+    position: relative;
+    height: 350px;
+}
+
+.outlineText{
+    position: absolute;
+    bottom: 2px;
+}
+
+.imgContainer {
+    box-shadow: 0 0 10px #BBE1FA;
+    width: 300px;
+}
+
+.readText{
+    font-size: 20px;
+    letter-spacing: 2px;
+    word-spacing: 4px;
+    text-align: justify;
+}
+
